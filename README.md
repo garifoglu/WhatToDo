@@ -28,6 +28,7 @@ Database connection using Sequelize
 Error handling for wrong requests
 
 Example Code (Backend - server.js):
+
 ![image](https://github.com/user-attachments/assets/1bafe337-c1be-47cd-bcfd-faab4856e49c)
 
 ##3. Frontend
@@ -38,6 +39,7 @@ Todo list (shows all todos)
 Add new todo (form with input)
 
 Edit and delete (buttons for each todo)
+
 ![image](https://github.com/user-attachments/assets/e30fc556-9c13-42df-823e-118565829b65)
 
 
@@ -53,6 +55,7 @@ Tables:
 Todos (id, title, completed, createdAt)
 
 Example Code (Database - models/Todo.js):
+
 ![image](https://github.com/user-attachments/assets/6bd64346-8bc2-4293-be4f-6e8a5058a062)
 
 
@@ -61,6 +64,7 @@ The project is organized as:
 
 
 ![image](https://github.com/user-attachments/assets/9509ef86-6e9a-4fe6-a702-c816e0ecff81)
+
 ![image](https://github.com/user-attachments/assets/8222ed1c-bd98-4bad-9c31-fc1378f0e269)
 
 Backend handles API requests.
@@ -90,7 +94,9 @@ Frontend tested manually.
 Error handling for wrong inputs.
 
 Example Error Handling (Backend):
+
 ![image](https://github.com/user-attachments/assets/f11f1c1d-ef04-43f4-91f8-2a8fec1ed0f7)
+
 If the database fails, it sends an error message.
 
 
