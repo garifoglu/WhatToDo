@@ -109,6 +109,6 @@ Responsive (works on computers).
 Clear buttons (add, edit, delete).
 (screenshot could be nice but having problems on app right now.)
 
-##Conclution
+## Conclution
 I am having troubles about authentication, planning to remove it from project. Could be easier to pick more lower technology for this project. Othervise it is good to practise it myself.
 
