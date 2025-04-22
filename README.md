@@ -1,7 +1,7 @@
-#Project phase 2 - Basic structure and main functionalities
+# Project phase 2 - Basic structure and main functionalities
 Add something
 
-##1. Environment
+## 1. Environment
 The project uses:
 
 Backend: Node.js with Express.js
@@ -18,7 +18,7 @@ Backend: http://localhost:5000
 
 Frontend: http://localhost:3000
 
-##2. Backend
+## 2. Backend
 The backend handles:
 
 API routes (GET, POST, PUT, DELETE) for todos
@@ -31,7 +31,7 @@ Example Code (Backend - server.js):
 
 ![image](https://github.com/user-attachments/assets/1bafe337-c1be-47cd-bcfd-faab4856e49c)
 
-##3. Frontend
+## 3. Frontend
 The frontend is built with React and includes:
 
 Todo list (shows all todos)
@@ -45,7 +45,7 @@ Edit and delete (buttons for each todo)
 
 Example Code (Frontend - App.js):
 
-##4. Database
+## 4. Database
 Uses PostgreSQL for storing todos.
 
 Sequelize helps manage the database.
@@ -59,7 +59,7 @@ Example Code (Database - models/Todo.js):
 ![image](https://github.com/user-attachments/assets/6bd64346-8bc2-4293-be4f-6e8a5058a062)
 
 
-##5. Basic structure and architecture
+## 5. Basic structure and architecture
 The project is organized as:
 
 
@@ -73,7 +73,7 @@ Frontend shows the user interface.
 
 Database stores todos.
 
-##6. Functionalities
+## 6. Functionalities
 The app can:
 ✅ Add new todos
 ✅ List all todos
@@ -82,10 +82,10 @@ The app can:
 ✅ Mark todos as completed
 
 
-##7. Code quality and documentation
+## 7. Code quality and documentation
 Add something
 
-##8. Testing and error handling
+## 8. Testing and error handling
 
 Backend tested with Postman.
 
@@ -101,7 +101,7 @@ If the database fails, it sends an error message.
 
 
 
-##9. User interface and interaction
+## 9. User interface and interaction
 Simple design (easy to use).
 
 Responsive (works on computers).
