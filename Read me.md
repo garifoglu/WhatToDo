@@ -1,0 +1,1 @@
+A full-stack todo application built with React (frontend) and Node.js/Express (backend)
